@@ -9,7 +9,7 @@
 
 
 
-# To predict, overall energy use of office building and commercial building yearly. We can use simple regressor like Ridge/Lasso Regression but we can use Random Forest Regressor performs outstandingly among thoese regressors.
+# To predict, overall energy use of office building and commercial building yearly. We can use simple regressor like Ridge/Lasso Regression but we can use Random Forest Regressor performs outstandingly better among thoese regressors.
 
 ![image](https://user-images.githubusercontent.com/87870404/157588758-09c61c25-4f80-41a7-9296-a24b1f36c757.png)
 
